@@ -1,0 +1,12 @@
+﻿  ofApp.cpp
+c:\users\jindo\downloads\of_v0.11.0_vs2017_release\libs\openframeworks\utils\ofutils.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\jindo\downloads\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\jindo\downloads\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  comsil1_20191657.vcxproj -> C:\Users\jindo\Downloads\of_v0.11.0_vs2017_release\apps\myApps\comsil1_20191657\bin\comsil1_20191657_debug.exe
+  
+  	                   2	C:\Users\jindo\Downloads\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *추가 파일  		 6018560	C:\Users\jindo\Downloads\of_v0.11.0_vs2017_release\apps\myApps\comsil1_20191657\bin\FreeImage.dll
+  
+  	                   1	C:\Users\jindo\Downloads\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *추가 파일  		 1266176	C:\Users\jindo\Downloads\of_v0.11.0_vs2017_release\apps\myApps\comsil1_20191657\bin\fmodex.dll
+  	  *추가 파일  		 1312768	C:\Users\jindo\Downloads\of_v0.11.0_vs2017_release\apps\myApps\comsil1_20191657\bin\fmodexL.dll
